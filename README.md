@@ -1,0 +1,2 @@
+# autogit
+Git commands automation
